@@ -1,6 +1,6 @@
 # Calculadora de idade com .NET
 Aplicação de console simples desenvolvida em .NET que calcula a idade do usuário com base no ano de nascimento informado. Além disso, verifica se o usuário: \
-  - É maior de idade (18+) \
+  - É maior de idade (18+) 
   - Já pode tirar a carteira de habilitação (CNH)
 
 # Funcionalidades
