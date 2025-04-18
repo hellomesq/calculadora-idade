@@ -1,0 +1,28 @@
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.exe
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.deps.json
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.runtimeconfig.json
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.dll
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.pdb
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.AssemblyInfo.cs
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.dll
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\refint\CPCalculaIdade.dll
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.pdb
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.genruntimeconfig.cache
+C:\Users\sofia\OneDrive\Documentos\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\ref\CPCalculaIdade.dll
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.exe
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.deps.json
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.runtimeconfig.json
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.dll
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\bin\Debug\net8.0\CPCalculaIdade.pdb
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.AssemblyInfo.cs
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.dll
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\refint\CPCalculaIdade.dll
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.pdb
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\CPCalculaIdade.genruntimeconfig.cache
+C:\Users\Hellen\OneDrive\Área de Trabalho\Faculdade\2TDSA\.Net\CPCalculaIdade\CPCalculaIdade\obj\Debug\net8.0\ref\CPCalculaIdade.dll
